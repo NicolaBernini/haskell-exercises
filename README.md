@@ -1,6 +1,32 @@
 Opqdonut's Haskell Exercises
 ============================
 
+# My Solutions 
+
+## Week 1 
+
+### Es 1
+
+> Ex 1: define variables one, two and three. They should all have
+> type Int and values 1, 2 and 3. This exercise has no tests.
+- [Src](https://github.com/opqdonut/haskell-exercises/blob/master/templ/W1B.hs#L9)
+
+- [Sol](https://ideone.com/rAHSCk)
+
+
+
+
+
+### Es 2 
+
+> Ex 2: define the function double of type Integer->Integer. Double
+> should take one argument and return it multiplied by two.
+- [Src](https://github.com/opqdonut/haskell-exercises/blob/master/templ/W1B.hs#L12)
+
+- [Sol](https://ideone.com/S73mRD)
+
+
+
 Quick Start
 -----------
 
