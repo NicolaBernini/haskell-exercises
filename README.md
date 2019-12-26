@@ -1,6 +1,10 @@
 Opqdonut's Haskell Exercises
 ============================
 
+# MyDoc 
+
+- [Haskell Language - Index](https://github.com/NicolaBernini/haskell-exercises/issues/1)
+
 # My Solutions 
 
 ## Week 1 
